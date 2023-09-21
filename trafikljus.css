@@ -1,0 +1,76 @@
+body {
+    margin: 0px;
+}
+
+.box {
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+    border: 20px solid;
+}
+
+#red {
+    background-color: red;
+    border-color:darkred;
+}
+
+#yellow {
+    background-color: yellow;
+    border-color: darkgoldenrod;
+}
+
+#green {
+    background-color: green;
+    border-color: darkgreen;
+}
+
+.cube {
+    height: 90px;
+    width: 90px;
+    float: left;
+}
+
+.rectangle {
+    height: 90px;
+    width: 180px;
+    float: left;
+}
+
+#redBonus {
+    border-color:darkred;
+}
+
+#yellowBonus {
+    border-color: darkgoldenrod;
+}
+
+#greenBonus {
+    border-color: darkgreen;
+}
+
+#yellowCube {
+    background-color: yellow;
+}
+
+#lightYellowCube {
+    background-color: yellow;
+    opacity: 50%;
+}
+
+#greenCube {
+    background-color: green;
+}
+
+#lightGreenCube {
+    background-color: green;
+    opacity: 50%;
+}
+
+#redRectangle {
+    background-color: red;
+}
+
+#lightRedRectangle {
+    background-color: red;
+    opacity: 50%;
+}
