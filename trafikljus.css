@@ -24,17 +24,15 @@ body {
     border-color: darkgreen;
 }
 
-/* CSS nedan används till bonus uppgiften */
-
 .cube {
-    height: 90px;
-    width: 90px;
+    height: 50%;
+    width: 50%;
     float: left;
 }
 
 .rectangle {
-    height: 90px;
-    width: 180px;
+    height: 50%;
+    width: 100%;
     float: left;
 }
 
@@ -56,7 +54,7 @@ body {
 
 #lightYellowCube {
     background-color: yellow;
-    opacity: 50%;
+    opacity: 40%;
 }
 
 #greenCube {
@@ -75,4 +73,21 @@ body {
 #lightRedRectangle {
     background-color: red;
     opacity: 50%;
+}
+
+.innerBox {
+    height: 50%;
+    width: 50%;
+    background-color: white;
+    opacity: 50%;
+    margin-top: 50%;
+}
+
+#wide {
+    width: 100%;
+}
+
+#left {
+    margin-left: 50%;
+    opacity: 60%;
 }
