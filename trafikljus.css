@@ -1,17 +1,30 @@
 body {
     margin: 0px;
+    background-color: lightgray;
+}
+
+.background {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    margin-top: 30px;
 }
 
 .box {
     width: 180px;
     height: 180px;
-    margin: 10px;
+    margin: 10px 10px 10px 10px;
     border: 20px solid;
 }
 
 #red {
     background-color: red;
-    border-color: darkred;
+    border-color:darkred;
 }
 
 #yellow {
@@ -24,7 +37,8 @@ body {
     border-color: darkgreen;
 }
 
-/* Har lagt in en vit fyrkant med en viss opacitet för att skapa de ljusa partierna på trafikljuset */
+/* Har lagt in en vit fyrkant med en viss opacitet 
+för att skapa de ljusa partierna på trafikljuset */
 
 .innerBox {
     height: 50%;
