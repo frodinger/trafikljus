@@ -11,7 +11,7 @@ body {
 
 #red {
     background-color: red;
-    border-color:darkred;
+    border-color: darkred;
 }
 
 #yellow {
@@ -23,6 +23,8 @@ body {
     background-color: green;
     border-color: darkgreen;
 }
+
+/* Har lagt in en vit fyrkant med en viss opacitet för att skapa de ljusa partierna på trafikljuset */
 
 .innerBox {
     height: 50%;
