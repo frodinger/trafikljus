@@ -18,6 +18,7 @@ body {
     height: 180px;
     margin: 5px;
     border: 20px solid;
+    position: relative;
 }
 
 #red {
@@ -43,7 +44,8 @@ för att skapa de ljusa partierna på trafikljuset */
     width: 50%;
     background-color: white;
     opacity: 50%;
-    margin-top: 50%;
+    position: absolute;
+    bottom: 0;
 }
 
 #wide {
