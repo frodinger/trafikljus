@@ -24,57 +24,6 @@ body {
     border-color: darkgreen;
 }
 
-.cube {
-    height: 50%;
-    width: 50%;
-    float: left;
-}
-
-.rectangle {
-    height: 50%;
-    width: 100%;
-    float: left;
-}
-
-#redBonus {
-    border-color:darkred;
-}
-
-#yellowBonus {
-    border-color: darkgoldenrod;
-}
-
-#greenBonus {
-    border-color: darkgreen;
-}
-
-#yellowCube {
-    background-color: yellow;
-}
-
-#lightYellowCube {
-    background-color: yellow;
-    opacity: 40%;
-}
-
-#greenCube {
-    background-color: green;
-}
-
-#lightGreenCube {
-    background-color: green;
-    opacity: 50%;
-}
-
-#redRectangle {
-    background-color: red;
-}
-
-#lightRedRectangle {
-    background-color: red;
-    opacity: 50%;
-}
-
 .innerBox {
     height: 50%;
     width: 50%;
