@@ -16,7 +16,7 @@ body {
 .box {
     width: 180px;
     height: 180px;
-    margin: 5px 5px 5px 5px;
+    margin: 5px;
     border: 20px solid;
 }
 
