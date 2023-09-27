@@ -12,13 +12,13 @@ body {
     display: flex;
     flex-direction: column;
     width: fit-content;
-    padding: 5px;
+    padding: 10px;
 }
 
 .box {
     width: 180px;
     height: 180px;
-    margin: 5px;
+    margin: 10px;
     border: 20px solid;
     position: relative;
 }
