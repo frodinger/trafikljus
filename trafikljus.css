@@ -55,5 +55,5 @@ för att skapa de ljusa partierna på trafikljuset */
 }
 
 #right {
-    margin-left: 50%;
+    right: 0;
 }
